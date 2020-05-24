@@ -130,3 +130,6 @@ dmypy.json
 
 # Jetbrains
 .idea/
+
+# Project
+output.csv
